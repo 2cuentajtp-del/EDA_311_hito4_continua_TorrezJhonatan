@@ -20,9 +20,9 @@ Ubicados en la carpeta `recursividad/`:
 
 1. Copia la carpeta en `htdocs` (XAMPP) e inicia Apache y MySQL.
 2. Abre en el navegador:
-   - `http://localhost/EDA_311_hito4_continua_TorrezJhonatan-main/EDA_311_hito4_continua_TorrezJhonatan-main/recursividad/tarea.php`
-   - `(http://localhost/EDA_311_hito4_continua_TorrezJhonatan-main/EDA_311_hito4_continua_TorrezJhonatan-main/recursividad/conexion.php)`
-   - `http://localhost/EDA_311_hito4_continua_TorrezJhonatan-main/EDA_311_hito4_continua_TorrezJhonatan-main/recursividad/resursividad_db.php`
+   - TAREA: `http://localhost/EDA_311_hito4_continua_TorrezJhonatan-main/EDA_311_hito4_continua_TorrezJhonatan-main/recursividad/tarea.php`
+   - CONEXION: `http://localhost/EDA_311_hito4_continua_TorrezJhonatan-main/EDA_311_hito4_continua_TorrezJhonatan-main/recursividad/conexion.php`
+   - RECURSIVIDAD: `http://localhost/EDA_311_hito4_continua_TorrezJhonatan-main/EDA_311_hito4_continua_TorrezJhonatan-main/recursividad/resursividad_db.php`
 
 ## Configuración
 
